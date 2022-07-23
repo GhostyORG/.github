@@ -1,10 +1,11 @@
 ## Ghosty Organization
 
 
-Organization for managing and creating services for listing discord bots
+Organization for managing and creating services for listing discord bots & discord servers.
 
 ## Projects
 - [Ghosty](https://github.com/GhostyORG/Ghosty)
+- [GhostyWebsite](https://github.com/GhostyORG/Ghostydevelopment-web)
 
 
 <!--
