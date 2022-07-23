@@ -1,6 +1,5 @@
 ## Ghosty Organization
 
-![ghosty_org](https://user-images.githubusercontent.com/28858998/180604505-e18c2fac-4cb2-4703-866b-49fe1cf13610.jpg)
 
 Organization for managing and creating services for listing discord bots
 
