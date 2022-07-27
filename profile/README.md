@@ -7,6 +7,7 @@
 - [Ghosty](https://github.com/GhostyORG/Ghosty)
 - [GhostyWebsite](https://github.com/GhostyORG/Ghostydevelopment-web)
 - [AcornApp](https://github.com/GhostyORG/Acorn)
+- [DiscordPresence](https://github.com/GhostyORG/Discord_Presence)
 
 
 <!--
