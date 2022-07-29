@@ -5,7 +5,7 @@
 
 ## Main Projects
 - [Ghosty](https://github.com/GhostyORG/Ghosty)
-- [GhostyWebsite](https://github.com/GhostyORG/Ghostydevelopment-web)
+- [GhostyWebsite](https://github.com/GhostyORG/Ghosty-web)
 - [AcornApp](https://github.com/GhostyORG/Acorn)
 - [DiscordPresence](https://github.com/GhostyORG/Discord_Presence)
 
