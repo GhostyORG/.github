@@ -4,6 +4,8 @@
 👻Organization for managing and creating services for listing discord bots & discord servers. We will also soon be making Discord bots for use once our projects takes off along with apps!👻
 
 ## Main Projects
+- [CaptainMod](https://github.com/GhostyORG/CaptainMod)
+- [CaptainModWebsite](https://github.com/GhostyORG/CaptainModweb)
 - [Ghosty](https://github.com/GhostyORG/Ghosty)
 - [GhostyWebsite](https://github.com/GhostyORG/Ghosty-web)
 - [AcornApp](https://github.com/GhostyORG/Acorn)
