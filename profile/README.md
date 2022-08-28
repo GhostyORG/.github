@@ -6,7 +6,7 @@
 ## Main Projects
 - [Ghosty](https://github.com/GhostyORG/Ghosty)
 - [GhostyWebsite](https://github.com/GhostyORG/Ghosty-web)
-- [GrooveX-Music](https://github.com/GhostyORG/GrooveX-Music)
+- [Lofi-Radio](https://github.com/GhostyORG/Lofi-Radio)
 
 
 <!--
