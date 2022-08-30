@@ -9,6 +9,11 @@
 - [Lofi-Radio](https://github.com/GhostyORG/Lofi-Radio)
 
 
+## Side Projects
+- [Nexus](https://github.com/GhostyORG/Nexus)
+- [Bolt](https://github.com/GhostyORG/Bolt)
+
+
 <!--
 
 **Here are some ideas to get you started:**
