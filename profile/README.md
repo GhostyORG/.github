@@ -5,7 +5,7 @@
 
 ## Main Projects
 - [Ghosty](https://github.com/GhostyORG/Ghosty)
-- [GhostyWebsite](https://github.com/GhostyORG/Ghosty-web)
+- [Ghosty Website](https://github.com/GhostyORG/Ghosty-web)
 - [Lofi-Radio](https://github.com/GhostyORG/Lofi-Radio)
 - [Guardian](https://github.com/GhostyORG/Guardian)
 
