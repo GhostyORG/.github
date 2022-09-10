@@ -7,7 +7,7 @@
 - [Ghosty](https://github.com/GhostyORG/Ghosty)
 - [GhostyWebsite](https://github.com/GhostyORG/Ghosty-web)
 - [Lofi-Radio](https://github.com/GhostyORG/Lofi-Radio)
-- [PrivateSecurity](https://github.com/GhostyORG/PrivateSecurity)
+- [Guardian](https://github.com/GhostyORG/Guardian)
 
 
 ## Side Projects
