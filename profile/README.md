@@ -4,7 +4,7 @@
 👻Organization for managing and creating services for listing discord bots & discord servers. We will also soon be making Discord bots for use once our projects takes off along with apps!👻
 
 ## Main Projects
-- [Ghosty](https://github.com/GhostyORG/Ghosty)
+- [GhostyLists](https://github.com/GhostyORG/GhostyLists)
 - [Ghosty Website](https://github.com/GhostyORG/Ghosty-web)
 - [Lofi-Radio](https://github.com/GhostyORG/Lofi-Radio)
 - [Guardian](https://github.com/GhostyORG/Guardian)
