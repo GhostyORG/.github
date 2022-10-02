@@ -1,12 +1,16 @@
 ## Ghosty Organization
 
+---
 
 👻Organization for managing and creating services for listing discord bots & discord servers. We will also soon be making Discord bots for use once our projects takes off along with apps!👻
 
 ## Who are the developers?
 
+---
 
 Ghosty Development's developers come from all around the globe. We try and contribute to Ghosty Development and our open sourced projects when we can, to satisfy you! We listen to all suggestions and bug reports seriously. We are a non-toxic, non-profit organization just programming the future together! Star our projects to help us stay motivated working on stuff/projects.
+
+---
 
 ## Main Projects
 - [GhostyLists](https://github.com/GhostyORG/GhostyLists)
