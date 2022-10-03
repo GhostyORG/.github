@@ -18,7 +18,7 @@ Ghosty Development's developers come from all around the globe. We try and contr
 - [Lofi-Radio](https://github.com/GhostyORG/Lofi-Radio)
 - [Guardian](https://github.com/GhostyORG/Guardian)
 
-
+---
 <!--
 
 **Here are some ideas to get you started:**
