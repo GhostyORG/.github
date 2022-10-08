@@ -14,6 +14,7 @@ Ghosty Development's developers come from all around the globe. We try and contr
 ## How to reach us?
 ---
 You can reach us if you need support or need to request data deletion or even need to report a bug! Our email is ghostydevz@gmail.com
+
 ---
 
 ## Main Projects
