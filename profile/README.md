@@ -11,6 +11,10 @@
 Ghosty Development's developers come from all around the globe. We try and contribute to Ghosty Development and our open sourced projects when we can, to satisfy you! We listen to all suggestions and bug reports seriously. We are a non-toxic, non-profit organization just programming the future together! Star our projects to help us stay motivated working on stuff/projects.
 
 ---
+## How to reach us?
+---
+You can reach us if you need support or need to request data deletion or even need to report a bug! Our email is ghostydevz@gmail.com
+---
 
 ## Main Projects
 - [GhostyLists](https://github.com/GhostyORG/GhostyLists)
